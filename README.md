@@ -1,3 +1,3 @@
 # docker-image-prg-dist
 Image for TP
-![alt text](docker_image.png "Docker image")
+![my screenshot](docker_img.png "Docker image")
